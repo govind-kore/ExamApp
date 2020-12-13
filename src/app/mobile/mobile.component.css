@@ -1,0 +1,8 @@
+div.mobile{
+    border: solid blue 3px;
+    border-radius: 5px;
+    background-color: cornsilk;
+    padding: 20px;
+    width: 250px;
+    box-shadow: 0 0 10px 2px #2178EB;
+}
